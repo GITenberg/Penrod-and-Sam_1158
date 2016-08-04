@@ -1,0 +1,41 @@
+_repo: Penrod-and-Sam_1158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, Newton Booth
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: "Penrod and Sam is a novel by Booth Tarkington that was first published\
+  \ in 1916. The book is the sequel to his 1914 work, Penrod, and focuses more on\
+  \ the relationship between the main character of the previous book, Penrod Schofield,\
+  \ and his best friend, Sam Williams. More of Penrod's adventures appear in the final\
+  \ book of the series Penrod Jashber (1929). The three books were published together\
+  \ in one volume, Penrod: His Complete Story, in 1931.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1158'
+  wikidata: Q7164626
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Middle West -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Boys -- Fiction'
+- GITenberg
+title: Penrod and Sam
+url: http://www.gutenberg.org/ebooks/1158
+wikipedia:
+- https://en.wikipedia.org/wiki/Penrod_and_Sam
